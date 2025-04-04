@@ -75,7 +75,7 @@ public class Models {
     public static Response patchUpdateUser(String endpoint, String user_id) {
         setUpHeaders();
 
-        String name = "Ahmad Husain Edit";
+        String name = "Iqbal Gunawan Edit";
         String gender = "male";
         String email = Utility.generateRandomEmail();
         String status = "active";
